@@ -2,7 +2,7 @@ package chess;
 
 public enum Color {
 	
-	BLOCK,
+	BLACK,
 	WHITE;
 
 }
